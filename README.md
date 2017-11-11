@@ -1,4 +1,4 @@
-# Styling Links with Pseudo Selectors and ID Selectors
+ Styling Links with Pseudo Selectors and ID Selectors
 
 ## Objectives
 
@@ -25,7 +25,7 @@ As you add the styles to `style.css`, you should check your work visually by loo
 
 ### The Navigation Links
 
-Add a style for the hover state of the `nav a` links using the hover [pseudo selector](https://www.w3schools.com/cssref/sel_hover.asp) and make their hover state have a `text-decoration` of `underline` and a `color` of `#0056b3`. 
+Add a style for the hover state of the `nav a` links using the hover [pseudo selector](https://www.w3schools.com/cssref/sel_hover.asp) and make their hover state have a `text-decoration` of `underline` and a `color` of `#0056b3`.
 
 ### The Main Header Link
 
@@ -33,13 +33,13 @@ First, add an `id` attribute to the `h3` in the `header` of the site. Then using
 
 ### The Questions `div`
 
-First, add a `class` attribute to the 2nd `div` within `main` with the value of `questions`. Then using a class selector, style the `div` with the class `questions` to have a top and bottom padding of `0` and a left and right padding of `20px`. 
+First, add a `class` attribute to the 2nd `div` within `main` with the value of `questions`. Then using a class selector, style the `div` with the class `questions` to have a top and bottom padding of `0` and a left and right padding of `20px`.
 
 Style all `h4`s inside the `div` with class `questions` to have a font-size of `30px` and a bottom margin of `10px.
 
-Style all `p`s inside the `div` with class `questions` to have a top margin of `30px`. 
+Style all `p`s inside the `div` with class `questions` to have a top margin of `30px`.
 
-Add a `btn` class to the `a` tags within the `p`s of the `questions` `div`. 
+Add a `btn` class to the `a` tags within the `p`s of the `questions` `div`.
 
 Add a style for all `a` tags with a `btn` class within a `div` of class `questions`. The style should make the `a` tags have a `border-radius` of `5px`, a `color` of `#FFF`, a `background-color` and `border-color` of `#007bff`, no `text-decoration`, a `padding` of `18px`, and a `font-size` of `20px`.
 
@@ -52,4 +52,3 @@ Add a style for the hover state of all `a` tags with a `btn` class within a `div
 * [HTML ID Attributes](https://www.w3schools.com/tags/att_id.asp)
 * [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
 * [CSS :hover selector](https://www.w3schools.com/cssref/sel_hover.asp)
-
